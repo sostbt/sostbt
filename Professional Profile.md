@@ -1,27 +1,25 @@
-## Mekro Deo
+## So STBT
 
-### Position
-Blockchain Infrastructure & Smart Contract Observer  
-Quazenthor (QWBQ) – BNB Smart Chain
+### Role
+Community Transparency & Support Coordinator  
+Quazenthor (QWBQ)
 
-### Professional Summary
-Mekro Deo specializes in blockchain infrastructure observation and post-deployment contract analysis. His work focuses on understanding how immutable smart contracts behave on-chain and translating technical observations into clear, verifiable documentation.
+### Summary
+So STBT works at the intersection of community interaction and blockchain transparency. The focus is ensuring users receive accurate, non-misleading information backed by on-chain sources.
 
-He does not participate in development, ownership, or financial decision-making.
-
-### Core Responsibilities
-- Monitoring deployed BEP-20 contracts for consistency
-- Cross-checking public parameters using blockchain explorers
-- Identifying and documenting immutable behaviors
-- Supporting transparency-focused educational material
+### Responsibilities
+- Community question handling
+- Transparency clarification
+- Educational guidance
+- Policy-aligned communication
 
 ### Skills
-- BNB Smart Chain fundamentals
-- Smart contract structure awareness
-- On-chain verification (BscScan)
-- Technical documentation
-- Transparency-oriented reporting
+- Community moderation
+- Blockchain basics education
+- Risk-aware communication
+- Ethical disclosure
 
-### Philosophy
-Education over promotion.  
-Verification over claims.
+### Principle
+No hype.  
+No promises.  
+Only facts.
