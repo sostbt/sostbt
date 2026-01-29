@@ -1,16 +1,19 @@
-## Hi there 👋
+# So STBT
 
-<!--
-**sostbt/sostbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Community Transparency & Support Coordinator**
 
-Here are some ideas to get you started:
+Hi, I'm So STBT.  
+I help maintain clear, calm, and factual communication between blockchain projects and their communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Role in Quazenthor (QWBQ)
+My responsibility is community support and transparency coordination — not marketing, not promotion, and not financial guidance.
+
+### What I Do
+- Answer community questions with verifiable information
+- Redirect users to on-chain data instead of opinions
+- Maintain respectful, educational discussion spaces
+- Ensure all communications align with non-financial policies
+
+I do not manage funds, tokens, or smart contracts.
+
+— So STBT
