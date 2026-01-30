@@ -17,3 +17,15 @@ My responsibility is community support and transparency coordination — not mar
 I do not manage funds, tokens, or smart contracts.
 
 — So STBT
+
+
+https://x.com/sos_tbt
+https://www.linkedin.com/in/sostbt/
+https://t.me/Sostbt
+https://medium.com/@sostbt1402
+https://github.com/sostbt/sostbt
+https://bitcointalk.org/index.php?topic=5572844
+https://www.facebook.com/sostbt
+https://www.instagram.com/sostbt1402/
+
+sostbt@quazenthor.com
