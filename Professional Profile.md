@@ -1,4 +1,4 @@
-## So STBT
+## So STBT ##
 
 ### Role
 Community Transparency & Support Coordinator  
@@ -24,4 +24,5 @@ So STBT works at the intersection of community interaction and blockchain transp
 No hype.  
 No promises.  
 Only facts.
+
 
